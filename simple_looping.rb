@@ -17,7 +17,7 @@ def while_iterator(number_of_times)
     while int <10
       puts phrase
       int +=
-    end
+    
 
 end
 
