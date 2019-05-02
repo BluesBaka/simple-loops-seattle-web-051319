@@ -18,7 +18,7 @@ def times_iterator(number_of_times)
   end
 end
 
-=begin
+
 def while_iterator(number_of_times)
   int = 0
  phrase = "Welcome to Flatiron School's Web Development Course!"
@@ -29,7 +29,7 @@ def while_iterator(number_of_times)
 
 
 end
-
+=begin
 def until_iterator(number_of_times)
   int =0
   phrase = "Welcome to Flatiron School's Web Development Course!"
