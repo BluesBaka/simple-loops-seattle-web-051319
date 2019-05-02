@@ -11,15 +11,15 @@ def times_iterator(number_of_times)
   end
 end
 
-def while_iterator(number_of_times)
-   int = 0
-  phrase = "Welcome to Flatiron School's Web Development Course!"
-    while int <10
-      puts phrase
-      int +=
+#def while_iterator(number_of_times)
+##   int = 0
+#  phrase = "Welcome to Flatiron School's Web Development Course!"
+#while int <10
+#      puts phrase
+#      int +=
     
 
-end
+##end
 
 def until_iterator(number_of_times)
   # code your solution here using the "until" keyword
@@ -28,10 +28,10 @@ def until_iterator(number_of_times)
 
 end
 
-def for_iterator(number_of_times)
+#def for_iterator(number_of_times)
   # code your solution here using the "for" keyword
   # remember that `for` requires a range of numbers. How can we turn our number into a range?
 
-  phrase = "Welcome to Flatiron School's Web Development Course!"
+#  phrase = "Welcome to Flatiron School's Web Development Course!"
 
-end
+#end
