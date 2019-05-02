@@ -18,12 +18,14 @@ end
 
 def while_iterator(number_of_times)
   int = 0
- phrase = "Welcome to Flatiron School's Web Development Course!"while int <10
+ phrase = "Welcome to Flatiron School's Web Development Course!"
+    while int < number_of_times
      puts phrase
      int +=
+   end
 
 
-##end
+end
 
 def until_iterator(number_of_times)
   int =0
