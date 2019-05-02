@@ -28,12 +28,13 @@ end
 
 def until_iterator(number_of_times)
   int =0
+  phrase = "Welcome to Flatiron School's Web Development Course!"
   until int = number_of_times
     puts phrase
     int +=
   # code your solution here using the "until" keyword
   # hint: use a counter to tell the until loop when to stop!
-  phrase = "Welcome to Flatiron School's Web Development Course!"
+
 
 end
 
