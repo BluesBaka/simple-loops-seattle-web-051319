@@ -16,12 +16,11 @@ def times_iterator(number_of_times)
   end
 end
 
-#def while_iterator(number_of_times)
-##   int = 0
-#  phrase = "Welcome to Flatiron School's Web Development Course!"
-#while int <10
-#      puts phrase
-#      int +=
+def while_iterator(number_of_times)
+  int = 0
+ phrase = "Welcome to Flatiron School's Web Development Course!"while int <10
+     puts phrase
+     int +=
 
 
 ##end
