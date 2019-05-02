@@ -9,7 +9,7 @@ def loop_iterator(number_of_times)
     end
 end
 
-def times_iterator(number_of_times)
+=begindef times_iterator(number_of_times)
   number_of_times.times do
   phrase = "Welcome to Flatiron School's Web Development Course!"
   puts phrase
@@ -46,3 +46,4 @@ end
 #  phrase = "Welcome to Flatiron School's Web Development Course!"
 
 #end
+=end
