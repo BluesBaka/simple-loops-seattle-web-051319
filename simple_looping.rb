@@ -3,8 +3,9 @@
 def loop_iterator(num)
     int = 1
     loop do
-      int +=
+
       puts "Welcome to Flatiron School's Web Development Course!"
+      int +=
       break if int == num
     end
 end
